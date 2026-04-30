@@ -1,5 +1,4 @@
 ---
-version: 1.0.0
 name: grants-program-marketing
 description: >
   Complete system for designing, marketing, and operating a Web3 grants program.
